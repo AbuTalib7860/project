@@ -14,3 +14,7 @@ for add in github
 5- git push origin main or
 5- git push -u origin main for shortcut make for brach after or
 git push
+
+git checkout "branch name for move another branch
+git checkout -b branch name for create new branch
+git checkout -d branch name for delete existing branch
