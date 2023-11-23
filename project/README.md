@@ -18,3 +18,12 @@ git push
 git checkout "branch name for move another branch
 git checkout -b branch name for create new branch
 git checkout -d branch name for delete existing branch
+
+git merge branch name or pull request for merge branch
+git pull origin main for fetch content from remote repo
+
+git reset used in add file
+git reset HEAD~1 used in commit file
+git log for see commit
+git reset hash code from git log
+git reset --hard hash code from git log
