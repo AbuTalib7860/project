@@ -18,3 +18,6 @@ git push
 git checkout "branch name for move another branch
 git checkout -b branch name for create new branch
 git checkout -d branch name for delete existing branch
+
+git merge or pull request for merge branch
+git pull origin main for fetch content from remote repo
